@@ -1,7 +1,13 @@
+h1 {
+    width: 50%;
+    margin-left: 50px;
+    background-color: blanchedalmond;
+}
 div p {
     background-color: blanchedalmond;
     width: 50%;
     border-width: 3px;
+    margin-left: 50px;
 }
 div p.one {
     border: solid red;
