@@ -1,0 +1,17 @@
+div p {
+    background-color: blanchedalmond;
+    width: 50%;
+    border-width: 3px;
+}
+div p.one {
+    border: solid red;
+    border-radius: 3px;
+}
+div p.two {
+    border: ridge green;
+    border-radius: 6px;
+}
+div p.three {
+    border: groove blue;
+    border-radius: 12px;
+}
