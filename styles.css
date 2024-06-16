@@ -1,6 +1,7 @@
 h1 {
     width: 50%;
     margin-left: 50px;
+    padding: 20px;
     background-color: blanchedalmond;
 }
 div p {
@@ -8,6 +9,7 @@ div p {
     width: 50%;
     border-width: 3px;
     margin-left: 50px;
+    padding: 20px;
 }
 div p.one {
     border: solid red;
