@@ -1,5 +1,5 @@
 h1 {
-    width: 50%;
+    max-width: 50%;
     margin-left: 50px;
     box-sizing: border-box;
     padding: 20px;
@@ -7,7 +7,7 @@ h1 {
 }
 div p {
     background-color: blanchedalmond;
-    width: 50%;
+    max-width: 50%;
     border-width: 3px;
     margin-left: 50px;
     padding: 20px;
